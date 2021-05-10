@@ -7,7 +7,7 @@
 - Las maneras de clonar un repositorio 
 - Como hacer commits y cambios a los archivos
 
-## Cosas que no em quedaron del todo claras
+## Cosas que no me quedaron del todo claras
 
 - Coo funcionan los comandos para administrar desde un dispositivo fisico 
 - Como aceptar pull requests 
